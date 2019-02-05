@@ -1,0 +1,24 @@
+      #m1{
+                margin:20px;
+                padding:10px; 
+                }   
+                #m2{
+                margin:20px;
+                padding:10px; 
+                } 
+                .txt1{
+                  text-align:center;
+                border:1px solid black;
+                background-color:#cccccc;
+                margin:0px;
+                padding:0px;
+            }
+               #hv{
+                opacity:0.9;
+                border:1px solid black;
+            }
+            #hv:hover{
+                opacity:1.0;
+            }     
+                  
+
